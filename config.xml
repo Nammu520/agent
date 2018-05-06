@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<interceptor>
+    <Ignore>com.yang.monitor.vo</Ignore>
+    <Ignore>com.yang.monitor.core.dto</Ignore>
+    <Ignore>com.yang.monitor.utils</Ignore>
+    <Ignore>com.yang.monitor.traceClass</Ignore>
+    <Ignore>com.yang.monitor.record</Ignore>
+    <Ignore>com.yang.monitor.filter</Ignore>
+    <Ignore>com.yang.monitor.transation</Ignore>
+    <Ignore>com.yang.monitor.agent</Ignore>
+    <Ignore>com.yang.monitor.service.washer</Ignore>
+    <Add>com.yang</Add>
+    <Add>com.google.gson</Add>
+
+    <NettyPort>13103</NettyPort>
+    <NettyIP>127.0.0.1</NettyIP>
+</interceptor>

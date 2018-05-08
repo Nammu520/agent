@@ -9,7 +9,7 @@
     <Ignore>com.yang.monitor.transation</Ignore>
     <Ignore>com.yang.monitor.agent</Ignore>
     <Ignore>com.yang.monitor.service.washer</Ignore>
-    <Add>com.yang</Add>
+    <Add>com.danlu</Add>
     <Add>com.google.gson</Add>
 
     <NettyPort>13103</NettyPort>
